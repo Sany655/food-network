@@ -4,16 +4,6 @@ body{
     color: #575757;
 }
 
-.top-bar{
-    background-image: linear-gradient(to bottom right, #fe472d, #2b2525);
-    padding: 1px 65px;
-    box-shadow: 0px 2px 10px;
-}
-
-.top-bar > h3 > span{
-    color: white;
-}
-
 .flex-container{
     display: flex;
     align-items: center;
