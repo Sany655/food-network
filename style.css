@@ -43,6 +43,9 @@ h3{
 h4{
     font-size: 20px;
 }
+h5{
+    font-size: 18px;
+}
 
 .orange-color{
     color: orange;
@@ -58,6 +61,7 @@ h4{
     padding: 15px 30px;
     border-radius: 100px;
     text-decoration: none;
+    border: none;
 }
 
 .second-section{
@@ -119,4 +123,35 @@ footer{
 
 footer p{
     color: white;
+}
+
+.review-section{
+    text-align: center;
+    padding: 1px 10px 50px;
+    box-shadow: 0px 0px 1px;
+    margin: 100px 0px;
+    background: tomato;
+    color: black;
+}
+
+.review{
+    margin: 0px 30px;
+    box-shadow: 0px 0px 5px;
+    padding: 40px;
+    background: #f8f8f8;
+}
+
+.subscribe-section{
+    text-align: center;
+    box-shadow: 5px 5px 15px #c4c4c4;
+    margin: 0 110px 80px;
+    padding: 1px 30px 35px 30px;
+    border-radius: 25px;
+}
+
+.subscribe-section input{
+    border-radius: 100px;
+    padding: 15px;
+    border: 1px solid #c7c5c5;
+    outline: none;
 }
